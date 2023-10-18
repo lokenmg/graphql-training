@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'pxoctvnj',
         'USER': 'pxoctvnj',
         'PASSWORD': 'gvrk27m7a92sPu0KKShtzgf97ukH_9TP',
-        'HOST': 'bubble.db.elephantsql.com (bubble-01)',
+        'HOST': 'bubble.db.elephantsql.com',
         'PORT': '5432',
     },
     'test': {
